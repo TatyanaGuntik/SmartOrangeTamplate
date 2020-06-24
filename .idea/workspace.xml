@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71a88f0-10b8-45e2-9b5b-7dc9b3dd001d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dRpdZTzszYuItZtBSt6htsYuZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71a88f0-10b8-45e2-9b5b-7dc9b3dd001d" name="Default Changelist" comment="" />
+      <created>1592397847485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592397847485</updated>
+      <workItem from="1592397848552" duration="9254000" />
+      <workItem from="1592465573993" duration="15174000" />
+      <workItem from="1592490599147" duration="4476000" />
+      <workItem from="1592561004784" duration="7253000" />
+      <workItem from="1592811387869" duration="12000" />
+      <workItem from="1592828704428" duration="5461000" />
+      <workItem from="1592893185380" duration="603000" />
+      <workItem from="1592911467769" duration="7080000" />
+      <workItem from="1592980632955" duration="87000" />
+      <workItem from="1592999312832" duration="2981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592568463941">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="662" y="247" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1592568463941" />
+    <state x="720" y="244" width="530" height="640" key="FileChooserDialogImpl" timestamp="1593005697177">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="720" y="244" width="530" height="640" key="FileChooserDialogImpl/70.34.1850.1046@70.34.1850.1046" timestamp="1593005697177" />
+  </component>
+</project>
